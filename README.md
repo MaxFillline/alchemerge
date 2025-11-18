@@ -3,8 +3,17 @@
 Merge alchemical components to make potions for your mentor and become a Master Alchemist!
 
 ## To Do:
-* GDD
 * prototype main loop
+    - [x] mouse
+    - [ ] gameboard
+    - [ ] items
+    - [ ] spawners
+    - [ ] move items
+    - [ ] merge items
+    - [ ] win condition
+    - [ ] orders
+    - [ ] buy spawners
+    - [ ] buy upgrades
 * start screen
 * art
 * sfx
